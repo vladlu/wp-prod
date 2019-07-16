@@ -15,7 +15,7 @@ space because the `node_modules` directory can be large (>50mb & >10k files).
 
 - See a rules sample file here: [wp-prod-core/rules.sample](https://github.com/vladlu/wp-prod-core/blob/master/rules.sample).
 
-- See the full list of rules for the specific version of the core and nuances of its work on
+- See the full list of rules for the specific core version on
 [its GitHub page](https://github.com/vladlu/wp-prod-core/).
 
 - You can specify the desired version of the the core in `core-version` file. 
@@ -41,7 +41,7 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 #
 
-Version: 1.0.19  
+Version: 1.0.20  
 Core Version: 1.14.7
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
