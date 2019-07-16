@@ -8,7 +8,7 @@ Just add the rules to the `rules` file and run `run.sh` — it will automaticall
 specified version of [wp-prod-core](https://github.com/vladlu/wp-prod-core/) which will parse
 and execute the rules.
 
-If you want to uninstall the wp-prod-core, run `uninstall.sh`. It can be helpful if you want
+If you want to uninstall the *wp-prod-core*, run `uninstall.sh`. It can be helpful if you want
 to free up the disk space; because sometimes the `node_modules` directory can be large (usually it is more than 50MB and 10k files).
 
 ## Other
@@ -19,8 +19,9 @@ to free up the disk space; because sometimes the `node_modules` directory can be
 [its GitHub page](https://github.com/vladlu/wp-prod-core/).
 
 - You can specify the desired version of the the core in `core-version` file. 
-By default, the latest version of wp-prod always contains the latest version of wp-prod-core specified 
-(I take care of that). It can be useful only if you want to downgrade the core version.
+By default, the latest version of *wp-prod* always contains the latest version of *wp-prod-core* specified 
+(I take care of that). It can be useful only if you are using an outdated version of *wp-prod* or
+want to downgrade the *wp-prod-core* version.
    
 #
     
@@ -41,7 +42,7 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 #
 
-Version: 1.0.21  
+Version: 1.0.22  
 Core Version: 1.14.7
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
