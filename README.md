@@ -18,13 +18,13 @@ See a rules sample file here: [wp-prod-core/rules.sample](https://github.com/vla
 See the full list of rules for the specific version of the core and nuances of its work on
 [its GitHub page](https://github.com/vladlu/wp-prod-core/).
 
-You can specify the desired version of the wp-prod-core in `core-version` file. 
+You can specify the desired version of the the core in `core-version` file. 
 By default, the latest version of wp-prod always contains the latest version of wp-prod-core specified 
 (I take care of that). It can be useful only if you want to downgrade the core version.
 
 #
 
-Version: 1.0.6  
+Version: 1.0.7  
 Core Version: 1.14.5
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
