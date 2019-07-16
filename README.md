@@ -36,11 +36,11 @@ By default, the latest version of wp-prod always contains the latest version of 
    
 #
     
-**It have to be installed in the `dev/` directory of the project root to work correctly.**
+**It has to be installed in the `dev/` directory of the project root to work correctly.**
 
 #
 
-Version: 1.0.17  
+Version: 1.0.18  
 Core Version: 1.14.7
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
