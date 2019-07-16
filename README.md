@@ -13,18 +13,30 @@ space because the `node_modules` directory can be large (>50mb & >10k files).
 
 ## Other
 
-See a rules sample file here: [wp-prod-core/rules.sample](https://github.com/vladlu/wp-prod-core/blob/master/rules.sample).
+- See a rules sample file here: [wp-prod-core/rules.sample](https://github.com/vladlu/wp-prod-core/blob/master/rules.sample).
 
-See the full list of rules for the specific version of the core and nuances of its work on
+- See the full list of rules for the specific version of the core and nuances of its work on
 [its GitHub page](https://github.com/vladlu/wp-prod-core/).
 
-You can specify the desired version of the the core in `core-version` file. 
+- You can specify the desired version of the the core in `core-version` file. 
 By default, the latest version of wp-prod always contains the latest version of wp-prod-core specified 
 (I take care of that). It can be useful only if you want to downgrade the core version.
 
+- It's also recommended to add this to `.gitignore` of your project:
+
+    
+    # wp-prod
+    
+    dev/wp-prod/*
+    !dev/wp-prod/*.sh
+    !dev/wp-prod/rules
+    !dev/wp-prod/core-version
+    !dev/wp-prod/readme.txt
+
+
 #
 
-Version: 1.0.8  
+Version: 1.0.9  
 Core Version: 1.14.5
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
