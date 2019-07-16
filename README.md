@@ -5,8 +5,8 @@ This is a dev system for WordPress developers which makes life easier.
 # How to use
 
 Just add the rules to `rules` file and run `run.sh` — it will automatically download the
-specified version of [wp-prod-core](https://github.com/vladlu/wp-prod-core/) which will parse the rules
-and execute them.
+specified version of [wp-prod-core](https://github.com/vladlu/wp-prod-core/) which will parse
+and execute the rules.
 
 If you want to uninstall the wp-prod-core, run `uninstall.sh`. It's usually helpfull to free up the disk
 space because `node_modules` directory can be large (>50mb & >10k files).
@@ -24,7 +24,7 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 #
 
-Version: 1.0.2  
+Version: 1.0.3  
 Core Version: 1.14.4
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
