@@ -18,7 +18,7 @@ to free up the disk space; because sometimes the `node_modules` directory can be
 - See the full list of rules for the specific core version on
 [its GitHub page](https://github.com/vladlu/wp-prod-core/).
 
-- You can specify the desired version of the the core in `core-version` file. 
+- You can specify the desired version of the core in `core-version` file. 
 By default, the latest version of *wp-prod* always contains the latest version of *wp-prod-core* specified 
 (I take care of that). It can be useful only if you are using an outdated version of *wp-prod* or
 want to downgrade the *wp-prod-core* version.
@@ -42,7 +42,7 @@ want to downgrade the *wp-prod-core* version.
 
 #
 
-Version: 1.0.22  
+Version: 1.0.23  
 Core Version: 1.14.7
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
