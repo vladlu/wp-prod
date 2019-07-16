@@ -24,19 +24,19 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 - It's also recommended to add this to `.gitignore` of your project:
 
-```
-# wp-prod
-    
-dev/wp-prod/*
-!dev/wp-prod/*.sh
-!dev/wp-prod/rules
-!dev/wp-prod/core-version
-!dev/wp-prod/readme.txt
-```
+    ```
+    # wp-prod
+        
+    dev/wp-prod/*
+    !dev/wp-prod/*.sh
+    !dev/wp-prod/rules
+    !dev/wp-prod/core-version
+    !dev/wp-prod/readme.txt
+    ```
 
 #
 
-Version: 1.0.11  
+Version: 1.0.12  
 Core Version: 1.14.5
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
