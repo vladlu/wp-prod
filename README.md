@@ -1,6 +1,6 @@
 # About
 
-This is a dev system for WordPress developers which makes life easier. 
+This is a production system for WordPress developers which makes life easier. 
 
 # How to use
 
@@ -24,7 +24,7 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 #
 
-Version: 1.0.4  
-Core Version: 1.14.4
+Version: 1.0.5  
+Core Version: 1.14.5
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
