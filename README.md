@@ -33,10 +33,14 @@ By default, the latest version of wp-prod always contains the latest version of 
     !dev/wp-prod/core-version
     !dev/wp-prod/readme.txt
     ```
+   
+#
+    
+**It have to be installed in the `dev/` directory in the root of the project to work correctly.**
 
 #
 
-Version: 1.0.15  
+Version: 1.0.16   
 Core Version: 1.14.7
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
