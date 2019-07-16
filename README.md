@@ -24,7 +24,7 @@ By default, the latest version of wp-prod always contains the latest version of 
 
 #
 
-Version: 1.0.7  
+Version: 1.0.8  
 Core Version: 1.14.5
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
