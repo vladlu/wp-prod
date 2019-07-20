@@ -42,7 +42,7 @@ want to downgrade the *wp-prod-core* version.
 
 #
 
-Version: 1.0.24  
-Core Version: 1.14.8
+Version: 1.0.25  
+Core Version: 1.14.9
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
