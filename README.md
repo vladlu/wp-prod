@@ -1,6 +1,6 @@
 # About
 
-A production system for WordPress developers which makes life easier. 
+A production system for WordPress developers that makes life easier. 
 
 # How to use
 
@@ -42,7 +42,7 @@ want to downgrade the *wp-prod-core* version.
 
 #
 
-Version: 1.0.29  
+Version: 1.0.30  
 Core Version: 1.14.14
 
 License: [MIT](https://github.com/vladlu/wp-prod/blob/master/LICENSE)
